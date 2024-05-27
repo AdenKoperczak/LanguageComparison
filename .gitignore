@@ -1,0 +1,4 @@
+*.swp
+SETTINGS.py
+*/build/*
+__pycache__
